@@ -58,10 +58,12 @@ I’m always excited to collaborate, discuss tech, or just share memes!
 ---
 
 <div align="center">  
-<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="100">  
-<p>✨ Thanks for stopping by! Keep shining! ✨</p>  
-![Visitor Counter](https://profile-counter.glitch.me/snehhhhhhaa/count.svg)  
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="100">  
+  <p>✨ Thanks for stopping by! Keep shining! ✨</p>  
+  <br>  
+  <img src="https://profile-counter.glitch.me/snehhhhhhaa/count.svg" alt="Visitor Counter">  
 </div>  
+
 
 [![Sparkle](https://img.shields.io/badge/Made_with_💖-FF69B4?style=for-the-badge)](https://github.com/snehhhhhhaa)  
 
