@@ -50,11 +50,11 @@
 ## 🌟 **Featured Projects**
 
 <div align="center">
-  <a href="https://github.com/snehhhhhhaa/project1">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=snehhhhhhaa&repo=project1&hide_border=true&bg_color=ffffff&title_color=FF92B2&icon_color=FF92B2&text_color=5A5A5A" alt="Project 1"/>
+  <a href="https://github.com/Snehhhhhhaa/body-pose">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=snehhhhhhaa&repo=body-pose&hide_border=true&bg_color=ffffff&title_color=FF92B2&icon_color=FF92B2&text_color=5A5A5A" alt="Project 1"/>
   </a>
-  <a href="https://github.com/snehhhhhhaa/project2">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=snehhhhhhaa&repo=project2&hide_border=true&bg_color=ffffff&title_color=FF92B2&icon_color=FF92B2&text_color=5A5A5A" alt="Project 2"/>
+  <a href="https://github.com/Snehhhhhhaa/E-Learn">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=snehhhhhhaa&repo=E-Learn&hide_border=true&bg_color=ffffff&title_color=FF92B2&icon_color=FF92B2&text_color=5A5A5A" alt="Project 2"/>
   </a>
 </div>
 
