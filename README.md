@@ -1,110 +1,71 @@
 # **💖 Sneha Suresh 🌸**
 
 <div align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300" align="right">
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="250" align="right">
   
-  ### ✨ **B.Tech CSE Student** | 🎮 **Full Stack Developer** | 🌈 **Tech & Design Enthusiast**
+  ### ✨ **B.Tech CSE Student** | 🎮 **Full Stack Developer**
   ### 💌 *"Coding with coffee, creativity, and cat memes!"* 🐾
   
-  <a href="https://instagram.com/snehhhhhhaa"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=FF69B4" alt="Instagram"/></a>
-  <a href="https://linkedin.com/in/snehhhhhhaa"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=9370DB" alt="LinkedIn"/></a>
-  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=FFB6C1" alt="Email"/></a>
+  <a href="https://instagram.com/snehhhhhhaa"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"/></a>
+  <a href="https://linkedin.com/in/snehhhhhhaa"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
 </div>
 
 <br>
 
-## 🍄 **Hello World!** 
+## 🌱 **About Me**
 
-<img src="https://media.giphy.com/media/paTz7UZbPfTZFRYnnB/giphy.gif" width="200" align="left">
+> Hi there! I'm Sneha — a tech enthusiast and full stack developer with a passion for creating beautiful, functional applications. I love exploring new technologies, contributing to open-source, and designing user-friendly interfaces.
 
-Hi there! I'm Sneha — a **tech-obsessed student** 🎓 by day and a **code wizard** 🧙‍♀️ by night. I love building apps that solve real problems, designing pretty UIs, and making tech more fun and accessible!
+- 🔭 Currently learning: **React Native & Cloud Computing**
+- 🎧 Fun fact: I code while listening to K-pop!
+- 🎨 Passionate about: **UI/UX design** and **open-source projects**
 
-<br clear="left">
-
-<div align="center">
-  <table>
-    <tr>
-      <td>🌱 Currently learning</td>
-      <td><b>React Native & Cloud Computing</b></td>
-    </tr>
-    <tr>
-      <td>💡 Fun fact</td>
-      <td><b>I code while listening to K-pop! 🎧</b></td>
-    </tr>
-    <tr>
-      <td>🎨 Passionate about</td>
-      <td><b>UI/UX design and open-source projects</b></td>
-    </tr>
-  </table>
-</div>
-
----
-
-## 🎀 **My Toolkit**
+## 🛠️ **Skills**
 
 <div align="center">
-
-### 💌 **Languages**
   
-<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white&labelColor=9370DB" alt="C">
-<img src="https://img.shields.io/badge/Java-FFD700?style=for-the-badge&logo=openjdk&logoColor=black&labelColor=FF69B4" alt="Java">
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=FF69B4" alt="Python">
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=FFB6C1" alt="JavaScript">
-
-### 🌸 **Web & Mobile**
+  **Languages:** `C` `Java` `Python` `JavaScript` `HTML/CSS`
   
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black&labelColor=FF69B4" alt="React">
-<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white&labelColor=FF1493" alt="Flask">
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black&labelColor=DDA0DD" alt="Firebase">
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=9370DB" alt="HTML5">
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=FF69B4" alt="CSS3">
-
-### 🧸 **Design & Tools**
+  **Technologies:** `React` `Flask` `Firebase` `Git` `Figma`
   
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white&labelColor=FF69B4" alt="Figma">
-<img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white&labelColor=FF1493" alt="VSCode">
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=FFB6C1" alt="Git">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=DDA0DD" alt="GitHub">
-
 </div>
-
----
 
 ## 📊 **GitHub Stats**
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=snehhhhhhaa&show_icons=true&theme=radical&hide_border=true&bg_color=FFB6C1&title_color=FF69B4&icon_color=FFFFFF&text_color=FFFFFF&border_radius=10" alt="GitHub Stats"/>
+  <img width="49%" height="180em" src="https://github-readme-stats.vercel.app/api?username=snehhhhhhaa&show_icons=true&hide_border=true&bg_color=ffffff&title_color=FF92B2&text_color=5A5A5A&icon_color=FF92B2" alt="GitHub Stats"/>
   
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=snehhhhhhaa&theme=tokyonight&hide_border=true&background=FFE4E1&ring=FF69B4&fire=FF1493&currStreakLabel=9370DB&sideLabels=9370DB&border_radius=10" alt="GitHub Streak"/>
+  <img width="49%" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=snehhhhhhaa&hide_border=true&background=ffffff&ring=FF92B2&fire=FF92B2&currStreakLabel=5A5A5A&sideLabels=5A5A5A" alt="GitHub Streak"/>
+</div>
+
+<br>
+
+<div align="center">
+  <img width="70%" src="https://github-readme-activity-graph.vercel.app/graph?username=snehhhhhhaa&theme=pastel&hide_border=true&area=true&bg_color=ffffff&color=FF92B2&line=a28bc6&point=FF92B2" alt="Activity Graph"/>
 </div>
 
 <div align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=snehhhhhhaa&layout=compact&theme=radical&hide_border=true&bg_color=FFB6C1&title_color=9370DB&text_color=FFFFFF&border_radius=10" alt="Top Languages"/>
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=snehhhhhhaa&layout=compact&hide_border=true&bg_color=ffffff&title_color=FF92B2&text_color=5A5A5A" alt="Top Languages"/>
 </div>
-
----
 
 ## 🌟 **Featured Projects**
 
 <div align="center">
   <a href="https://github.com/snehhhhhhaa/project1">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=snehhhhhhaa&repo=project1&theme=radical&hide_border=true&bg_color=FFB6C1&title_color=9370DB&icon_color=FFFFFF&text_color=FFFFFF&border_radius=10" alt="Project 1"/>
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=snehhhhhhaa&repo=project1&hide_border=true&bg_color=ffffff&title_color=FF92B2&icon_color=FF92B2&text_color=5A5A5A" alt="Project 1"/>
   </a>
   <a href="https://github.com/snehhhhhhaa/project2">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=snehhhhhhaa&repo=project2&theme=radical&hide_border=true&bg_color=FFE4E1&title_color=FF69B4&icon_color=FFFFFF&text_color=FFFFFF&border_radius=10" alt="Project 2"/>
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=snehhhhhhaa&repo=project2&hide_border=true&bg_color=ffffff&title_color=FF92B2&icon_color=FF92B2&text_color=5A5A5A" alt="Project 2"/>
   </a>
 </div>
 
----
+<br>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="150">
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="100">
   
-  ### ✨ Thanks for stopping by! Keep shining! ✨
+  ### ✨ Thanks for stopping by! ✨
   
   <img src="https://profile-counter.glitch.me/snehhhhhhaa/count.svg" alt="Visitor Counter">
-  
-  <br>
-  
-  <a href="https://github.com/snehhhhhhaa"><img src="https://img.shields.io/badge/Made_with_💖-FF69B4?style=for-the-badge&logo=github&logoColor=white" alt="Made with love"/></a>
 </div>
