@@ -1,4 +1,4 @@
-💖 Sneha Suresh 🌸  
+# **💖 Sneha Suresh 🌸**  
 
 <div align="center">  
 <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="200" align="right">  
@@ -45,15 +45,6 @@ Hi there! I’m Sneha — a **tech-obsessed student** 🎓 by day and a **code w
 ![](https://github-readme-stats.vercel.app/api?username=snehhhhhhaa&show_icons=true&theme=radical&hide_border=true&bg_color=FFB6C1&title_color=FF69B4&icon_color=FFFFFF)  
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=snehhhhhhaa&theme=tokyonight&hide_border=true&background=FFE4E1&ring=FF69B4&fire=FF1493)  
-
----
-
-## 💌 **Let’s Chat!**  
-I’m always excited to collaborate, discuss tech, or just share memes!  
-
-📧 **Email**: [sneha@cutecoder.com](mailto:sneha@cutecoder.com)  
-📱 **Portfolio**: [snehasuresh.me](https://snehasuresh.me)  
-🐦 **Twitter**: [@sneha_codes](https://twitter.com/sneha_codes)  
 
 ---
 
