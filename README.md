@@ -63,6 +63,6 @@ I’m always excited to collaborate, discuss tech, or just share memes!
 ![Visitor Counter](https://profile-counter.glitch.me/snehhhhhhaa/count.svg)  
 </div>  
 
-[![Sparkle](https://img.shields.io/badge/Made_with_💖-FF69B4?style=for-the-badge)](https://github.com/snehhhhhhaa)  
+![Sparkle](https://img.shields.io/badge/Made_with_💖-FF69B4?style=for-the-badge)](https://github.com/snehhhhhhaa)  
 
 *PS: Want a custom sticker or coding buddy? DM me!* 🍬  
