@@ -1,65 +1,68 @@
-# 👩‍💻 Sneha Suresh  
+💖 Sneha Suresh 🌸  
 
-### **B.Tech Computer Science Student | Full Stack Developer | Tech Enthusiast**  
+<div align="center">  
+<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="200" align="right">  
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/snehhhhhhaa)  
-🌟 *"Turning ideas into reality, one line of code at a time!"* 🚀  
+✨ **B.Tech CSE Student** | 🎮 **Full Stack Developer** | 🌈 **Tech & Design Lover**  
+💌 *"Coding with coffee, creativity, and cat memes!"* 🐾  
 
----
-
-## **🚀 About Me**  
-I am a **Computer Science Engineering student** with a deep passion for **web development, backend engineering, and problem-solving**. I love working on innovative projects, contributing to open-source, and constantly exploring new technologies. My goal is to build scalable and efficient solutions that make an impact.  
-
----
-
-## **🛠️ Tech Stack**  
-
-### **💻 Programming Languages**  
-![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)  
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)  
-![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)  
-
-### **🌐 Web & App Development**  
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)  
-![Flask](https://img.shields.io/badge/Flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)  
-![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black)  
-
-### **🛠️ Tools & Technologies**  
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)  
-![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)  
-![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)  
+[![Instagram](https://img.shields.io/badge/-Pink_Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/snehhhhhhaa)  
+[![LinkedIn](https://img.shields.io/badge/-Lilac_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/snehhhhhhaa)  
+</div>  
 
 ---
 
-## **📌 Projects**  
+## 🍄 **Hello World!**  
+Hi there! I’m Sneha — a **tech-obsessed student** 🎓 by day and a **code wizard** 🧙‍♀️ by night. I love building apps that solve real problems, designing pretty UIs, and making tech more fun and accessible!  
 
-- **🚀 Smart Web App** → Developed a web app using **React + Flask** for real-time data analysis.  
-- **🔐 Firebase Authentication** → Built a secure user authentication system using **Firebase**.  
-- **📊 Dynamic Dashboard** → Created an **interactive dashboard** powered by **MySQL & Flask**.  
-
----
-
-## **📈 GitHub Stats**  
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=snehhhhhhaa&theme=react-dark&hide_border=true&area=true)  
-
-![](https://github-readme-stats.vercel.app/api?username=snehhhhhhaa&theme=radical&hide_border=false&include_all_commits=false&count_private=false)  
-![](https://github-readme-streak-stats.herokuapp.com/?user=snehhhhhhaa&theme=radical&hide_border=false)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=snehhhhhhaa&theme=radical&hide_border=false&layout=compact)  
+- 🌱 Currently learning: **React Native & Cloud Computing**  
+- 💡 Fun fact: I code while listening to K-pop! 🎧  
+- 🎨 Passionate about: **UI/UX design** and **open-source projects**  
 
 ---
 
-## **🏆 Achievements**  
-✔ **Built multiple full-stack applications** using React, Flask & Firebase.  
-✔ **Actively contributing to open-source** and tech communities.  
-✔ **Passionate about learning & implementing new technologies.**  
+## 🎀 **My Toolkit**  
+
+### 💌 **Languages**  
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white&labelColor=purple)  
+![Java](https://img.shields.io/badge/Java-FFD700?style=flat&logo=java&logoColor=black&labelColor=pink)  
+![Python](https://img.shields.io/badge/Python-FF69B4?style=flat&logo=python&logoColor=white)  
+
+### 🌸 **Web & Mobile**  
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black&labelColor=hotpink)  
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white&labelColor=deeppink)  
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black&labelColor=white)  
+
+### 🧸 **Design & Tools**  
+![Figma](https://img.shields.io/badge/Figma-FF69B4?style=flat&logo=figma&logoColor=white)  
+![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white&labelColor=mediumvioletred)  
+![Git](https://img.shields.io/badge/Git-FF1493?style=flat&logo=git&logoColor=white)  
 
 ---
 
-## **📬 Connect with Me**  
-📩 *Email*: [your-email@example.com](mailto:your-email@example.com)  
-💼 *LinkedIn*: [LinkedIn](https://www.linkedin.com/in/snehhhhhhaa)  
+## 📊 **GitHub Diary**  
+
+![](https://github-readme-stats.vercel.app/api?username=snehhhhhhaa&show_icons=true&theme=radical&hide_border=true&bg_color=FFB6C1&title_color=FF69B4&icon_color=FFFFFF)  
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=snehhhhhhaa&theme=tokyonight&hide_border=true&background=FFE4E1&ring=FF69B4&fire=FF1493)  
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=snehhhhhhaa&icon=0&color=0)](https://visitcount.itsvg.in)  
+## 💌 **Let’s Chat!**  
+I’m always excited to collaborate, discuss tech, or just share memes!  
+
+📧 **Email**: [sneha@cutecoder.com](mailto:sneha@cutecoder.com)  
+📱 **Portfolio**: [snehasuresh.me](https://snehasuresh.me)  
+🐦 **Twitter**: [@sneha_codes](https://twitter.com/sneha_codes)  
+
+---
+
+<div align="center">  
+<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="100">  
+<p>✨ Thanks for stopping by! Keep shining! ✨</p>  
+![Visitor Counter](https://profile-counter.glitch.me/snehhhhhhaa/count.svg)  
+</div>  
+
+[![Sparkle](https://img.shields.io/badge/Made_with_💖-FF69B4?style=for-the-badge)](https://github.com/snehhhhhhaa)  
+
+*PS: Want a custom sticker or coding buddy? DM me!* 🍬  
