@@ -1,10 +1,10 @@
-# **💖 Sneha Suresh 🌸**
+# ** Sneha Suresh **
 
 <div align="center">
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="250" align="right">
   
-  ### ✨ **B.Tech CSE Student** | 🎮 **Full Stack Developer**
-  ### 💌 *"Coding with coffee, creativity, and cat memes!"* 🐾
+  ###  **B.Tech CSE Student** | **Full Stack Developer**
+  ### *"Coding with coffee, creativity, and cat memes!"* 🐾
   
   <a href="https://instagram.com/snehhhhhhaa"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"/></a>
   <a href="https://linkedin.com/in/snehhhhhhaa"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
