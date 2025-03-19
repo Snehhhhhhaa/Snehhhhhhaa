@@ -1,10 +1,10 @@
-# ** Sneha Suresh **
+# **Sneha Suresh** 
 
 <div align="center">
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="250" align="right">
   
   ###  **B.Tech CSE Student** | **Full Stack Developer**
-  ### *"Coding with coffee, creativity, and cat memes!"* 🐾
+  ### *"Caffeine-powered creativity in progress!"* 🐾
   
   <a href="https://instagram.com/snehhhhhhaa"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"/></a>
   <a href="https://linkedin.com/in/snehhhhhhaa"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
@@ -17,15 +17,14 @@
 
 > Hi there! I'm Sneha — a tech enthusiast and full stack developer with a passion for creating beautiful, functional applications. I love exploring new technologies, contributing to open-source, and designing user-friendly interfaces.
 
-- 🔭 Currently learning: **React Native & Cloud Computing**
-- 🎧 Fun fact: I code while listening to K-pop!
-- 🎨 Passionate about: **UI/UX design** and **open-source projects**
+-  Currently learning: **React Native & Cloud Computing**
+-  Passionate about: **UI/UX design** and **open-source projects**
 
 ## 🛠️ **Skills**
 
 <div align="center">
   
-  **Languages:** `C` `Java` `Python` `JavaScript` `HTML/CSS`
+  **Languages:** `C`  `Python` `JavaScript` `HTML/CSS`
   
   **Technologies:** `React` `Flask` `Firebase` `Git` `Figma`
   
