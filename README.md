@@ -4,7 +4,7 @@
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="250" align="right">
   
   ###  **B.Tech CSE Student** | **Full Stack Developer**
-  ### *"Caffeine-powered creativity in progress!"* 🐾
+  ### *"Caffeine-powered creativity in progress!"* 
   
   <a href="https://instagram.com/snehhhhhhaa"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"/></a>
   <a href="https://linkedin.com/in/snehhhhhhaa"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
@@ -51,9 +51,6 @@
 <div align="center">
   <a href="https://github.com/Snehhhhhhaa/body-pose">
     <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=snehhhhhhaa&repo=body-pose&hide_border=true&bg_color=ffffff&title_color=FF92B2&icon_color=FF92B2&text_color=5A5A5A" alt="Project 1"/>
-  </a>
-  <a href="https://github.com/Snehhhhhhaa/E-Learn">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=snehhhhhhaa&repo=E-Learn&hide_border=true&bg_color=ffffff&title_color=FF92B2&icon_color=FF92B2&text_color=5A5A5A" alt="Project 2"/>
   </a>
 </div>
 
