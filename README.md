@@ -24,9 +24,9 @@
 
 <div align="center">
   
-  **Languages:** `C`  `Python` `JavaScript` `HTML/CSS`
+  **Languages:** `C`  `Python`  `HTML/CSS`
   
-  **Technologies:** `React` `Flask` `Firebase` `Git` `Figma`
+  **Technologies:**  `Git` `Figma`
   
 </div>
 
