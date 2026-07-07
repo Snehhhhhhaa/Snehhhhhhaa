@@ -1,65 +1,225 @@
-# **Sneha Suresh** 
+# Hi there, I'm Sneha Suresh 👋
 
 <div align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="250" align="right">
-  
-  ###  **B.Tech CSE Student** | **Full Stack Developer**
-  ### *"Caffeine-powered creativity in progress!"* 
-  
-  <a href="https://instagram.com/snehhhhhhaa"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"/></a>
-  <a href="www.linkedin.com/in/snehhhaa"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:snehhhhhhaa@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
+
+<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="220"/>
+
+# 💻 Full Stack Developer | UI/UX Designer
+
+### Building modern, scalable, and user-centric software solutions.
+
+<p>
+<a href="https://github.com/Snehhhhhhaa">
+<img src="https://img.shields.io/github/followers/Snehhhhhhaa?label=Followers&style=for-the-badge&color=0e75b6"/>
+</a>
+
+<a href="https://github.com/Snehhhhhhaa">
+<img src="https://komarev.com/ghpvc/?username=Snehhhhhhaa&style=for-the-badge&color=blue"/>
+</a>
+</p>
+
+<a href="https://www.linkedin.com/in/snehhhaa">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:snehhhhhhaa@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://instagram.com/snehhhhhhaa">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
 </div>
+
+---
+
+# 👩‍💻 About Me
+
+I'm **Sneha Suresh**, a Full Stack Developer passionate about building modern web applications that combine clean design with scalable architecture.
+
+Having completed my **Bachelor's in Computer Science & Engineering**, I enjoy turning ideas into impactful digital products while continuously exploring new technologies.
+
+I love working across the entire development lifecycle—from designing intuitive user interfaces to developing robust backend systems and deploying production-ready applications.
+
+- 🌱 Currently learning **React Native, Cloud Computing & DevOps**
+- 💻 Interested in **Full Stack Development, UI/UX Design & SaaS Products**
+- 🚀 Open to collaborating on exciting software projects
+- 📫 Reach me at **snehhhhhhaa@gmail.com**
+- ⚡ Fun fact: *Coffee + Music = Productive Coding Sessions*
+
+---
+
+# 🚀 Tech Stack
+
+### 👨‍💻 Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,js,ts,c,html,css"/>
+</p>
+
+### 🎨 Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,angular,tailwind,bootstrap"/>
+</p>
+
+### ⚙️ Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express"/>
+</p>
+
+### 🗄️ Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,firebase"/>
+</p>
+
+### ☁️ Tools & Technologies
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,docker,figma,vscode,postman"/>
+</p>
+
+---
+
+# 🌟 Featured Projects
+
+## 🤖 AI-Powered E-Learning Platform
+
+A modern AI-powered learning management platform with features including:
+
+- AI Chat Assistant
+- Quiz Battle
+- Flashcards
+- Video Summarization
+- Progress Tracking
+- Smart Notes
+
+**Tech Stack**
+
+Angular • Node.js • PostgreSQL
+
+---
+
+## 🧍 Body Pose Detection System
+
+A real-time posture analysis application using computer vision and machine learning.
+
+**Tech Stack**
+
+React • TensorFlow.js • Firebase
+
+---
+
+## 🛡️ Fortifier CCTV Service Management Platform
+
+A service management solution for CCTV installations, customer requests, quotations, and administration.
+
+---
+
+## 🏢 Institute Management System
+
+A complete ERP solution for educational institutions featuring admissions, academics, finance, and administration modules.
+
+---
+
+## 🌐 Business Websites & Custom Software
+
+Developed responsive websites and tailored software solutions for businesses with modern UI/UX principles.
+
+---
+
+# 📊 GitHub Statistics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Snehhhhhhaa&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Snehhhhhhaa&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=Snehhhhhhaa&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Snehhhhhhaa&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Snehhhhhhaa&theme=tokyonight&row=1&column=7&no-frame=true"/>
+
+</div>
+
+---
+
+# 📈 Contribution Summary
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Snehhhhhhaa&theme=tokyonight"/>
+
+</div>
+
+---
+
+# 🌱 Currently Exploring
+
+- 📱 React Native
+- ☁️ Cloud Computing
+- ⚙️ DevOps
+- 🤖 Artificial Intelligence
+- 🚀 Scalable Backend Systems
+- 🎨 UI/UX Design
+
+---
+
+# 🤝 Let's Connect
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/snehhhaa">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:snehhhhhhaa@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/>
+</a>
+
+<a href="https://instagram.com/snehhhhhhaa">
+<img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 💡 "Great software is built with curiosity, creativity, and continuous learning."
 
 <br>
 
-## 🌱 **About Me**
-
-> Hi there! I'm Sneha — a tech enthusiast and full stack developer with a passion for creating beautiful, functional applications. I love exploring new technologies, contributing to open-source, and designing user-friendly interfaces.
-
--  Currently learning: **React Native & Cloud Computing**
--  Passionate about: **UI/UX design** and **open-source projects**
-
-## 🛠️ **Skills**
-
-<div align="center">
-  
-  **Languages:** `C`  `Python`  `HTML/CSS`
-  
-  **Technologies:**  `Git` `Figma`
-  
-</div>
-
-## 📊 **GitHub Stats**
-
-<div align="center">
-  <img width="49%" height="180em" src="https://github-readme-stats.vercel.app/api?username=snehhhhhhaa&show_icons=true&hide_border=true&bg_color=ffffff&title_color=FF92B2&text_color=5A5A5A&icon_color=FF92B2" alt="GitHub Stats"/>
-</div>
+⭐ If you like my work, consider following my GitHub profile!
 
 <br>
 
-<div align="center">
-  <img width="70%" src="https://github-readme-activity-graph.vercel.app/graph?username=snehhhhhhaa&theme=pastel&hide_border=true&area=true&bg_color=ffffff&color=FF92B2&line=a28bc6&point=FF92B2" alt="Activity Graph"/>
-</div>
+<img src="https://profile-counter.glitch.me/Snehhhhhhaa/count.svg"/>
 
-<div align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=snehhhhhhaa&layout=compact&hide_border=true&bg_color=ffffff&title_color=FF92B2&text_color=5A5A5A" alt="Top Languages"/>
-</div>
-
-## 🌟 **Featured Projects**
-
-<div align="center">
-  <a href="https://github.com/Snehhhhhhaa/body-pose">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=snehhhhhhaa&repo=body-pose&hide_border=true&bg_color=ffffff&title_color=FF92B2&icon_color=FF92B2&text_color=5A5A5A" alt="Project 1"/>
-  </a>
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="100">
-  
-  ### ✨ Thanks for stopping by! ✨
-  
-  <img src="https://profile-counter.glitch.me/snehhhhhhaa/count.svg" alt="Visitor Counter">
 </div>
